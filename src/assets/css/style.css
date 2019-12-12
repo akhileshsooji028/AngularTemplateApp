@@ -704,6 +704,7 @@ nav#nav-mobile a:hover {
 .social-icons {
   display: inline-block;
   list-style: none;
+  /* text-align: end; */
 }
 
 .social-icons a {
@@ -1443,6 +1444,7 @@ blockquote {
   display: inline-block;
   padding: 15px 25px;
 }
+
 /* 
 .client-overlay {
   background: rgba(0, 0, 0, 0.8);
